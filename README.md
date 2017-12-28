@@ -22,4 +22,4 @@ NB: the function u() is present.
 ;t+=.016},16)</script>
 ````
 
-Demo: http://xem.github.io/miniDwitter
+Demo: http://xem.github.io/miniDwitter/mini.html
