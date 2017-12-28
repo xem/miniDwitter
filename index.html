@@ -1,0 +1,2 @@
+﻿<body onload='t=0;x=c.getContext`2d`;with(Math)S=sin,C=cos,T=tan;R=(r,g,b,a=1)=>`rgba(${[r|0,g|0,b|0,a]})`;setInterval("eval(A.value);t+=.016",16)'><canvas id=c width=1920 height=1080 style=width:5in></canvas><br><textarea id=A cols=60 oninput=t=0>
+for(i=0;i<65;i++)for(j=0;j<65;j++)x.fillStyle=R(i*9,j*9,C(t)*255),x.fillRect(900+400*S((i+t/9)*3)*C((j+t/9)*1.5),500+400*S((j+t/9)*1.5),5,5)
