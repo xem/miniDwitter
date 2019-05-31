@@ -13,7 +13,7 @@ Demo: http://xem.github.io/miniDwitter
 
 ---
 
-Dwitter clone with textarea and auto reset when the code is edited (193b)
+Dwitter clone without textarea (193b)
 NB: the function u() is present.
 
 ````
